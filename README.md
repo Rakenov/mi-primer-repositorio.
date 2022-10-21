@@ -9,4 +9,4 @@ Paso 1)Dirigirse a https://www.python.org/downloads/ y descargar la version 3.10
 
 Paso 2)Asegurar a python como variable de entorno
 
-Paso 3)En el terminal ir a la ruta de donde se descargo el repositoro y ejecutar holamundo.py
+Paso 3)En el terminal ir a la ruta de donde se descargo el repositoro y ejecutar Holamundo.py
