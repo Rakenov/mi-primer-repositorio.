@@ -3,7 +3,7 @@ Test de repositorio para clase de POO.
 
 # Instrucciones
 
-Paso 0)Descargar https://github.com/Rakenov/mi-primer-repositorio.
+Paso 0)Ejecutar en consola un git clone https://github.com/Rakenov/mi-primer-repositorio.
 
 Paso 1)Dirigirse a https://www.python.org/downloads/ y descargar la version 3.10.8
 
